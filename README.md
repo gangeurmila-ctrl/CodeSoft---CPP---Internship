@@ -59,8 +59,11 @@ A friendly and interactive C++ console application that acts as a personal task 
 **Features:**
 
 **Dynamic Task Management:** Uses C++ vectors to smoothly add and store multiple tasks during the session.
+
 **Interactive Status Tracking:** Clearly displays tasks as [TASK PENDING] or [TASK COMPLETED] so users know exactly what is left to do.
+
 **Smart Deletion & Confirmation:** Allows users to remove unwanted tasks while providing a safety (y/n) prompt to prevent accidental deletions.
+
 **Session Summary:** Calculates and displays a final breakdown of completed versus pending tasks before the user exits the program.
 
 **How to Use:**
