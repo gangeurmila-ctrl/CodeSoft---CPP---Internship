@@ -35,8 +35,11 @@ A simple console-based C++ game where two players take turns playing Tic-Tac-Toe
 Features:
 
 Interactive 2-Player Gameplay: Allows players to enter their custom names and compete against each other locally.
+
 Real-Time Board Updates: Displays and updates the 3x3 visual grid after every valid move so players can easily track the game state.
+
 Input Validation: Prevents players from overwriting an already taken spot or entering invalid numbers outside the 1-9 range.
+
 Automatic Win/Draw Detection: Evaluates the board after each turn across all rows, columns, and diagonals to accurately declare a winner or a tie.
 
 How to Play:
