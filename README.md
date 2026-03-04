@@ -73,3 +73,27 @@ Start the App: Run the program to be greeted by your personal task assistant and
 **View & Complete:** Type '2' to check your list, and type '3' to select a specific task number to mark as done.
 **Clean Up:** Type '4' to delete a task you no longer need, keeping your list organized.
 **Exit the App: **Type '5' to close the assistant and see your final productivity summary for the day!
+
+**Task 5 – Library Management System**
+
+🔹 **Description**:The Library Management System is a console-based application developed using C++ as part of my Virtual Internship (Task 5).
+This project is designed to manage library records efficiently. It allows users (admin) to store, manage, and update book information using file handling for permanent data storage. The system follows a menu-driven approach and applies Object-Oriented Programming (OOP) concepts to organize the code effectively.
+This task helped me understand real-world implementation of classes, objects, and file operations in C++.
+
+🔹** Features of Task:**
+
+➕ Add New Book Records
+
+📖 Display All Books
+
+🔍 Search Book by ID or Name
+
+📤 Issue Book
+
+📥 Return Book
+
+❌ Delete Book Record
+
+💾 Store Data Using File Handling
+
+📋 User-Friendly Menu-Driven Interface
